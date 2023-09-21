@@ -2,7 +2,7 @@ How to re-purpose a useless iSmartAlarm Spot+ (iSC5P) camera ?
 Intro
 If you are on this page you probably did the same mistake as I did and bought yourself iSmartAlarm equipment. I have been looking at ways to re-use the iSmartAlarm hardware but unfortunately it isn't so easy.
 You can read my blog post here:
-xxxx
+https://medium.com/@jandhe/how-to-re-purpose-a-useless-ismartalarm-spot-isc5p-camera-dd68af31996c
 
 
 Prepare your micro SD card
